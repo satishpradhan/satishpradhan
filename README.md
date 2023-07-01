@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @satishpradhan
+- 👋 Hi, I’m @Computech-IT
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently developong a POS and Clinic Management Software
 - 💞️ I’m looking to collaborate on my project
